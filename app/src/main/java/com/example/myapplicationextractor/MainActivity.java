@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 
         MyExtractor myExtractor = new MyExtractor(this);
 
-
     }
 
     @Override
